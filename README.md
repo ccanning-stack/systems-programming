@@ -1,6 +1,7 @@
 # Systems Programming Notes
 
 A summary/sample of my own extensive notes from the many things I've been learning relating to C and Linux systems programming.  
+
 My goal has been to build a solid foundation in how software actually runs on a Unix system, beyond surface-level frameworks or tooling.
 
 ## What I’ve been learning
@@ -67,4 +68,4 @@ Ultimately building real projects that demonstrate practical systems engineering
 ---
 
 These notes will evolve as I learn more.  
-The aim is practical understanding, not just academic theory.  I cannot believe how much fun I'm having!
+The aim is practical understanding, not just academic theory.  I can't believe how much fun I'm having!
