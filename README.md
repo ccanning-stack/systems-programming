@@ -4,6 +4,8 @@ A summary/sample of my own extensive notes from the many things I've been learni
 
 My goal has been to build a solid foundation in how software actually runs on a Unix system, beyond surface-level frameworks or tooling.
 
+Many of these exercises can be attributed to/ much learning has come from reading the book "System Programming in Linux" by Stewart N. Weiss.  I have also been making extensive use of ChatGPT and other online resources throughout; by continually asking specific questions I have been able to accelerate learning and sharpen my mental models.
+
 ## What I’ve been learning
 
 ### Memory & Allocation

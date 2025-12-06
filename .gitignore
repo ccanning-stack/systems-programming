@@ -1,0 +1,17 @@
+# OS junk
+.DS_Store
+
+# Build artefacts / binaries
+a.out
+forking
+namelengths
+perror
+perror2
+printlengths
+printargs2
+printreverse
+*.out
+*.o
+*.dSYM/
+*.exe
+*.log
